@@ -21,4 +21,11 @@ local Settings = {
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tlredz/Scripts/refs/heads/main/main.luau"))(Settings)
 ```
 
-@@@@@@@@ Kkkk
+# Sim
+# Eu
+# Roubei
+# Isso
+# Do
+# Redz
+# Hub
+# 😈
