@@ -7,13 +7,17 @@ local Scripts = {
 		PlacesIds = {10260193230},
 		UrlPath = "MemeSea.luau"
 	}
+	{
+		PlacesIds = {91739199740},
+		UrlPath = "VoxSea.luau"
+	}
 }
 
 local fetcher, urls = {}, {}
 
 local _ENV = (getgenv or getrenv or getfenv)()
 
-urls.Owner = "https://raw.githubusercontent.com/tlredz/";
+urls.Owner = "https://raw.githubusercontent.com/RainCreatorHub/";
 urls.Repository = urls.Owner .. "Scripts/refs/heads/main/";
 urls.Translator = urls.Repository .. "Translator/";
 urls.Utils = urls.Repository .. "Utils/";
