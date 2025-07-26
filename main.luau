@@ -6,7 +6,7 @@ local Scripts = {
 	{
 		PlacesIds = {10260193230},
 		UrlPath = "MemeSea.luau"
-	}
+	},
 	{
 		PlacesIds = {104067066727140},
 		UrlPath = "VoxSea.luau"
