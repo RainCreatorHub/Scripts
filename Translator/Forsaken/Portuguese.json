@@ -1,27 +1,46 @@
 {
-  "Welcome": ["Bem-vindo(a)", "Nome bonito!"],
-  "Account Age": ["Idade da conta", "Idade da conta em dias"],
+  "Tabs": {
+    "Info": ["Informações", "Aba que mostra informações do jogador"],
+    "Main": ["Principal", "Aba principal para funcionalidades"],
+    "ESP": ["ESP", "Aba para destacar objetos/jogadores"]
+  },
   
-  "Added: Button | finish generator": ["Adicionado: Botão | finalizar gerador", "Termina o gerador"],
-  "Toggle: Auto Generator": ["Alternar: Auto Gerador", "Anda até o gerador e completa, não se mova!"],
+  "Sections": {
+    "info": ["Informações", "Informações da conta e do jogador"],
+    "Update": ["Atualização", "Registro das últimas atualizações"],
+    "future update": ["Atualizações futuras", "Planos de atualização que estão por vir"],
+    "Main": ["Principal", "Funcionalidades principais do script"],
+    "esp": ["ESP", "Funcionalidades para destacar jogadores e objetos"]
+  },
   
-  "Working?": ["Trabalhando?", "Sim / atualizado hoje."],
-  "Update day": ["Dia de atualização", "sem data"],
+  "Labels": {
+    "Welcome": ["Bem-vindo(a)", "Nome bonito!"],
+    "Account Age": ["Idade da conta", "Número de dias da conta"],
+    "Added: Button | finish generator": ["Adicionado: Botão | finalizar gerador", "Termina o gerador"],
+    "Toggle: Auto Generator": ["Alternar: Auto Gerador", "Anda até o gerador e completa, não se mova!"],
+    "Working?": ["Está funcionando?", "Sim / atualizado hoje."],
+    "Update day": ["Dia de atualização", "Sem data definida"],
+    "Finish generator | Button": ["Finalizar gerador | Botão", "Spam = kick ou ban"]
+  },
   
-  "Finish generator | Button": ["Finalizar gerador | Botão", "Spammar = kick ou ban"],
+  "Buttons": {
+    "finish generator": ["Finalizar gerador", "Executa o comando para concluir o gerador"]
+  },
   
-  "Generator (s)": ["Gerador (es)", "Destaca os geradores"],
-  "Survivor (s)": ["Sobrevivente(s)", "Destaca os sobreviventes"],
-  "Killer (s)": ["Assassino(s)", "Destaca os assassinos"],
+  "Toggles": {
+    "Generator (s)": ["Gerador (es)", "Destaca os geradores"],
+    "Survivor (s)": ["Sobrevivente(s)", "Destaca os sobreviventes"],
+    "Killer (s)": ["Assassino(s)", "Destaca os assassinos"]
+  },
   
-  "Account Messages": [
-    "5 anos de conta... parabéns guerreiro(a) :D",
-    "4 anos de conta... parabéns :D",
-    "3 anos de conta... parabéns :D",
-    "2 anos de conta... parabéns :D",
-    "1 ano de conta... parabéns :D",
-    "quase 1 ano, continua firme! :D",
-    "Ainda está novo(a) :D",
-    "Começou agora?"
-  ]
+  "Account Messages": {
+    "5 years": "5 anos de conta... parabéns guerreiro(a) :D",
+    "4 years": "4 anos de conta... parabéns :D",
+    "3 years": "3 anos de conta... parabéns :D",
+    "2 years": "2 anos de conta... parabéns :D",
+    "1 year": "1 ano de conta... parabéns :D",
+    "almost 1 year": "Quase 1 ano, continua firme! :D",
+    "still new": "Ainda está novo(a) :D",
+    "just started": "Começou agora?"
+  }
 }
