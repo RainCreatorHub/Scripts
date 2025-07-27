@@ -1,8 +1,8 @@
 {
   "Tabs": {
-    "Info": ["Informações", "Aba que mostra informações do jogador"],
-    "Main": ["Principal", "Aba principal para funcionalidades"],
-    "ESP": ["ESP", "Aba para destacar objetos/jogadores"]
+    "Info": "Informações",
+    "Main": "Principal",
+    "esp": "esp"
   },
   
   "Sections": {
@@ -10,7 +10,7 @@
     "Update": ["Atualização", "Registro das últimas atualizações"],
     "future update": ["Atualizações futuras", "Planos de atualização que estão por vir"],
     "Main": ["Principal", "Funcionalidades principais do script"],
-    "esp": ["ESP", "Funcionalidades para destacar jogadores e objetos"]
+    "esp": ["esp", "Funcionalidades para destacar jogadores e objetos"]
   },
   
   "Labels": {
