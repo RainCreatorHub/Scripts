@@ -1,0 +1,27 @@
+{
+  "Welcome": ["Bem-vindo(a)", "Nome bonito!"],
+  "Account Age": ["Idade da conta", "Idade da conta em dias"],
+  
+  "Added: Button | finish generator": ["Adicionado: Botão | finalizar gerador", "Termina o gerador"],
+  "Toggle: Auto Generator": ["Alternar: Auto Gerador", "Anda até o gerador e completa, não se mova!"],
+  
+  "Working?": ["Trabalhando?", "Sim / atualizado hoje."],
+  "Update day": ["Dia de atualização", "sem data"],
+  
+  "Finish generator | Button": ["Finalizar gerador | Botão", "Spammar = kick ou ban"],
+  
+  "Generator (s)": ["Gerador (es)", "Destaca os geradores"],
+  "Survivor (s)": ["Sobrevivente(s)", "Destaca os sobreviventes"],
+  "Killer (s)": ["Assassino(s)", "Destaca os assassinos"],
+  
+  "Account Messages": [
+    "5 anos de conta... parabéns guerreiro(a) :D",
+    "4 anos de conta... parabéns :D",
+    "3 anos de conta... parabéns :D",
+    "2 anos de conta... parabéns :D",
+    "1 ano de conta... parabéns :D",
+    "quase 1 ano, continua firme! :D",
+    "Ainda está novo(a) :D",
+    "Começou agora?"
+  ]
+}
