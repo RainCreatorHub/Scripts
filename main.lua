@@ -8,7 +8,7 @@ local Scripts = {
 		UrlPath = "MemeSea.luau"
 	},
 	{
-		PlacesIds = {974829287289838},
+		PlacesIds = {18687417158},
 		UrlPath = "Forsaken.lua"
 	}
 }
