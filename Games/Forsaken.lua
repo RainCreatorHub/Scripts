@@ -1,10 +1,3 @@
---[[ =========================================================
-    Auto-Translator bootstrap
-    Idiomas suportados: pt, th
-    Default: en (inglês) se não encontrar/baixar nada
-========================================================= ]]
-
--- URLs
 local urls = {}
 urls.Owner = "https://raw.githubusercontent.com/RainCreatorHub/"
 urls.Repository = urls.Owner .. "Scripts/refs/heads/main/"
@@ -139,10 +132,6 @@ local function getAccountMessage(days)
     return msg
 end
 
--- =========================================================
--- A PARTIR DAQUI É O SEU SCRIPT, COM AS STRINGS PASSANDO PELO TRADUTOR
--- =========================================================
-
 local MoonLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/RainCreatorHub/MoonLib/refs/heads/main/MoonLib.lua"))()
 
 -- Main Window
@@ -239,12 +228,6 @@ do
                 end
             end
         end
-    })
-
-    local n, d = T.label("Finish generator | Button", "spamming = kick or ban")
-    mainTab:AddLabel({
-        Name = n,
-        Description = d
     })
 end
 
