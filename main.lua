@@ -20,6 +20,7 @@ local _ENV = (getgenv or getrenv or getfenv)()
 urls.Owner = "https://raw.githubusercontent.com/RainCreatorHub/";
 urls.Repository = urls.Owner .. "Scripts/refs/heads/main/";
 urls.Translator = urls.Repository .. "Translator/";
+urls.SuportedGames = urls.Repository .. "SuportedGames";
 urls.Utils = urls.Repository .. "Utils/";
 
 do
