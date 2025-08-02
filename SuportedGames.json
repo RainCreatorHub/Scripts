@@ -1,17 +1,15 @@
 {
   "TiposM": [
-    {
-      "🟢 | Funcionando.",
-      "🟠 | Trabalhando.",
-      "🔴 | Não esta funcionando.",
-      "🔵 | Esta com bugs.",
-      "⚪ | Corrigindo bugs.",
-      "⚫ | Descontinuado."
-    }
+    "🟢 | Funcionando.",
+    "🟠 | Trabalhando.",
+    "🔴 | Não esta funcionando.",
+    "🔵 | Esta com bugs.",
+    "⚪ | Corrigindo bugs.",
+    "⚫ | Descontinuado."
   ],
   "SuportedG": [
     {
-      "Flee the ": {
+      "Flee the": {
         "Version": "1.0"
       }
     }
