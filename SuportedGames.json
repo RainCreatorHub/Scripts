@@ -1,5 +1,5 @@
 {
-  "" [
+  "TiposM" [
     {
       "🟢 | Funcionando.",
       "🟠 | Trabalhando.",
@@ -9,15 +9,10 @@
       "⚫ | Descontinuado."
     }
   ],
-  "Suported Games": [
+  "SuportedG": [
     {
-      "Ola": {
-        "Version": ""
-      }
-    },
-    {
-      "Oi": {
-        "Version": ""
+      "Flee the ": {
+        "Version": "1.0"
       }
     }
   ]
