@@ -1,0 +1,24 @@
+{
+  "" [
+    {
+      "🟢 | Funcionando.",
+      "🟠 | Trabalhando.",
+      "🔴 | Não esta funcionando.",
+      "🔵 | Esta com bugs.",
+      "⚪ | Corrigindo bugs.",
+      "⚫ | Descontinuado."
+    }
+  ],
+  "Suported Games": [
+    {
+      "Ola": {
+        "Version": ""
+      }
+    },
+    {
+      "Oi": {
+        "Version": ""
+      }
+    }
+  ]
+}
